@@ -2,7 +2,6 @@
 
 A beautifully designed Korean weather app with ambient sounds, dynamic video backgrounds, and rich weather data — built with vanilla HTML, CSS, and JavaScript.
 
-![VibeWeather Pro](assets/icons/snow.png)
 
 ## ✨ Features
 
