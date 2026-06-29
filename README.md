@@ -90,4 +90,5 @@ MIT — free to use and modify.
 
 ---
 
-Made with ☀️ by [SweetyCodes](https://github.com/sweety-HJH223)
+## 👩‍💻 Built By
+**SweetyCodes** — [sweetycodes-jh.vercel.app](https://sweetycodes-jh.vercel.app/)
